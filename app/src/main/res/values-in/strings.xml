@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Catalogue Movie 3.0</string>
+    <string name="movie_title">Judul Film</string>
+    <string name="overview">Sinopsis</string>
+    <string name="rating">Peringkat</string>
+    <string name="fetching_movies">Memuat Film…</string>
+    <string name="movie_details">Detail Film</string>
+    <string name="release_date">Tanggal Rilis</string>
+    <string name="setting">Pengaturan</string>
+    <string name="search">Cari</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="aw_snap">Telah terjadi kesalahan</string>
+    <string name="search_hint">Masukkan judul Film</string>
+    <string name="now_playing">SEDANG DIMAINKAN</string>
+    <string name="upcoming">AKAN DATANG</string>
+    <string name="movie_refreshed">Menyegarkan</string>
+    <string name="favorite">FAVORITE</string>
+    <string name="delete_favorite">Hapus Favorite</string>
+    <string name="time">TIME</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="empty_text">EMPTY</string>
+    <string name="add_widget">Add widget</string>
+    <string name="error_load_failed">Error! Gagal Memuat!</string>
+    <string name="notification">Notification</string>
+    <string name="daily_reminder">Daily Reminder</string>
+    <string name="switch_daily_reminder">Switch Daily Reminder</string>
+    <string name="upcoming_reminder">Upcoming Reminder</string>
+    <string name="switch_upcoming_reminder">Switch Upcoming Reminder</string>
+    <string name="language_setting">Language Setting</string>
+    <string name="change_language">Change Language</string>
+    <string name="message_upcoming_reminder_canceled">Upcoming Reminder Dibatalkan</string>
+    <string name="message_upcoming_reminder">Upcoming Reminder Diaktifkan</string>
+    <string name="message_daily_reminder">Ayo kembali ke Catalogue Movie</string>
+</resources>
